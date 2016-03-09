@@ -1,0 +1,16 @@
+preface.md
+familiar-review.md
+coaches-not-managers.md
+downplay-pain.md
+proper-recognition.md
+filo.md
+giving-meaningful-feedback.md
+future-fixes.md
+hard-work-smart-work.md
+inquisitive-questions.md
+manager-matrix.md
+job-description.md
+unintended-consequences.md
+visualize-failure.md
+the-best-fight.md
+share-paintbrush.md
