@@ -1,12 +1,4 @@
-About a year ago, on this date (Aug. 4th), I started a series of posts title "0% Productivity". The idea is to call out specific behaviors that ensure things don't get done. Here are some past posts:
-
-1: [Treat work in a Last in, First out queue](http://blog.kevinlamping.com/0-productivity-how-you-can-get-the-most-uselessness/)
-2: [Talk about improving things “in the future”, without listing out specific POCs, timelines, and so on.](http://blog.kevinlamping.com/0-productivity-talk-about-improving-things-in-the/)
-3 [Downplay the pain that others feel because it doesn't look so bad from where you're standing.](http://blog.kevinlamping.com/0-productivity-tip-3-downplay-the-pain-that-others/)
-
-For the next tip, I'm changing things up by telling a story. It's entirely fiction, but the behaviors can be found in plenty of companies. Does it take working overtime to get noticed at your workplace? Why?
-
----
+# Hard Work, Smart Work
 
 It's 8pm on a Thursday night. Patrick, one of my software engineers, has just put in a order for pepperoni pizza. The delivery person shouldn't have any trouble with the office receiptionist this time; it's the third night in a row he's made the order.
 

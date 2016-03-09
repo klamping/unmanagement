@@ -1,3 +1,5 @@
+# Coaches, Not Managers
+
 > "It's the coach's job to make judgments and be critical about players." - [Gregg Popovich](http://basketballinsights.blogspot.com/2012/05/few-thoughts-from-gregg-popovich.html)
 
 Amidst the celebration and noise of the Spurs championship celebration, [a scene was captured on camera between Finals MVP Kawhi Leonard and Coach Gregg Popovich](https://www.youtube.com/watch?v=STEiP16T42k#t=20m12s). In their embrace, you can hear Kawhi telling his coach "Thanks for pushing me". 

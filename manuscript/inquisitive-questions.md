@@ -1,3 +1,5 @@
+# How Inquisitive Questions Spur Kinship at Work
+
 If you had a warning label, what would it say?
 
 "Caution: Extreme Sarcasm. Handle with levity."

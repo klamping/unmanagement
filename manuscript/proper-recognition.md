@@ -1,3 +1,5 @@
+# Proper Recognition
+
 The old 'Employee of the Month' award. You'll nearly always find a plaque at a fast-food chain with 3 of the 20 spots filled, with the last Employee-of-the-Month award having been awarded 16 months ago.
 
 At some point, a well-meaning manager decided it'd be great to recognize an employee once a month, something special to say thanks for everyone's hard work. But after only 3 times around that manager became too busy or was replaced by someone else. Now the plaque hangs there, an awkward reminder of how recognition can't just be nailed to a wall.

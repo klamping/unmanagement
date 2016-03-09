@@ -1,3 +1,5 @@
+# The Manager Matrix
+
 Micro-manager.
 
 A term that will bring dread to any heart that's been through the turmoil of working for one.

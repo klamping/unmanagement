@@ -1,3 +1,5 @@
+# Avoid Failure by Visualizing it
+
 I'm good at visualizing success.
 
 It just comes naturally.

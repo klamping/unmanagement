@@ -1,3 +1,5 @@
+# The Best Fight
+
 > "[W]e trust each other. We can argue and fight and disagree, but we're going to step onto the court and cheer for each other." - [Coach Pop](http://espn.go.com/nba/story/_/id/10955188/gregg-popovich-tim-duncan-stories)
 
 Growing up just northwest of San Antonio, becoming a fan of the San Antonio Spurs was pretty much a given. Too young to really appreciate the Jordan era, the Spurs streak of success came at the right time for me.

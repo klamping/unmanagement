@@ -1,14 +1,4 @@
-0% Productivity Tip #1
-
-**How you can get the most uselessness out of your day!**
-
-I quit my job. There were many reasons for doing so, but gridlock due to poor processes was a big one. Before I quit, I started listing out habits we had as a company that caused the greatest harm in regards to getting work done. I call this my "0% Productivity" list, otherwise knows as "How you can get the most uselessness out of your day".
-
-From this list, I hope to build out details for each item and really explain what I mean by them. I don’t mean to burn bridges with my previous employer or call anyone out by name. We all have habits that slow each other down and the best way to overcome them is to speak honestly and openly about ways to improve.
-
-So far I have 19 ideas, and it may be that since I’m no longer at my previous workplace, I’ve lost my muse, so to say. But I think we all struggle with productivity, so there’s always room to improve. Therefore, there’s always room for more blog posts.
-
-To start things off, I want to talk about my first bad habit. From a list of 19, it was hard to chose just one to talk about, especially the first one to talk about. I chose this one because it’s something we can all be caught doing. It’s not specific to a certain company or certain person. Therefore I think it’s a good start that hopefully we can all relate to.
+# Last in, First Out
 
 **Tip #1: Treat work in a Last in, First out queue**
 

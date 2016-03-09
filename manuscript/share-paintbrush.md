@@ -1,3 +1,5 @@
+# Share your Paintbrush, Share your Vision
+
 One of the key metrics to employee engagement is how they feel their day-to-day work relates to a shared vision.
 
 It's tempting to think that this simply means being more communicative about the company goals (which were often defined by a group of managers outside of the team). However, there's a large difference between "sharing a vision" and "creating a shared vision", and that's because there are two types of sharing.

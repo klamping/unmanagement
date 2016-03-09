@@ -1,3 +1,5 @@
+# What if you didn’t post a job description?
+
 One of the difficulties companies face when hiring is determining whether the applicant really is who they say they are. Not in a fake/stolen identity kind of way, but in a way that applicants tend to stretch the truth about their experience to better fit the job posting<sup>§</sup>.
 
 What if you could get around this by making it impossible for people to embellish their resume to match your specific needs? What if, instead of describing a specific role you’re looking for, you leave those details out until later in the process (say the second or third interview round)?

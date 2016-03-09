@@ -1,3 +1,5 @@
+# Embrace the Law of Unintended Consequences
+
 A recent post by Mathias Meyer titled "[From Open (Unlimited) to Minimum Vacation Policy](http://www.paperplanes.de/2014/12/10/from-open-to-minimum-vacation-policy.html)" has illustrated an important point when implementing any sort of change in a company. Embrace the law of unintended consequences.
 
 Many times in my career I've seen good intentions end with poor results. As a leader, you're doing what you think is right, but often times you overlook a detail that ruins the whole thing. 

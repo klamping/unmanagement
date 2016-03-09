@@ -1,3 +1,5 @@
+# Giving Meaningful Feedback
+
 In ["Coaches, not Managers"](http://blog.kevinlamping.com/coaches-not-managers/), I wrote about the importance of giving feedback. I didn't go into detail on just how to do that, because I felt it was worth its own post. 
 
 It's easy to say that you should be giving more feedback, but its dangerous to leave at that. Feedback can easily be done wrong and can end up hurting more than it helps. What follows is a list of actions you can take to provide healthier, meaningful feedback.
