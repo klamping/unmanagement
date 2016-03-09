@@ -29,5 +29,3 @@ Are you managing the good, or are you coaching the best?
 A few weeks after writing this, I ran across an article by  Havest Business Review titled [You Can’t Be a Great Manager If You’re Not a Good Coach](http://blogs.hbr.org/2014/07/you-cant-be-a-great-manager-if-youre-not-a-good-coach/). Seems to hit the nail right on the head.
 
 > [T]he single most important managerial competency that separates highly effective managers from average ones is coaching.
-
-I've also posted a follow up on [Giving Meaningful Feedback](http://blog.kevinlamping.com/giving-meaningful-feedback/).

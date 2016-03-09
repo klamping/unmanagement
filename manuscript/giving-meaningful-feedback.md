@@ -91,7 +91,7 @@ If you know someone hates speaking in front of clients, don't focus your feedbac
 
 Focus on the problem. If someone accidentally deleted all the files, don't give them feedback not to accidentally do it in the future. Fix the system that didn't keep backups. Make it okay for screw-ups to happen, because they're going to happen no matter how much feedback is given. 
 
-# Further Reading
+## Further Reading
 
 While some of this is personal experience, a lot of it I learned from listening to others. The following books/videos are highly recommended:
 
