@@ -1,10 +1,10 @@
 # Preface
 
-A few years ago I began writing about management, although I've never been a manager.
+A few years ago I began writing about management, although I've never actually been a manager.
 
-I didn't intend to become so interested in it. I didn't like management; always getting in the way and dictating how things were done.
+I didn't intend to become so interested in it. I didn't like management; it always seemed to get in the way; dictating how things were to be done.
 
-I couldn't see why someone would want to become a manager. It seemed like you traded in actual productive work for mindlessly balancing budgets and creating stuffy PowerPoint presentations.
+I couldn't understand why someone would want to be a manager. To me, you traded in actual productive work for days of mindlessly balancing budgets and creating stuffy PowerPoint presentations.
 
 something changed along the way
 
@@ -19,4 +19,4 @@ Great books:
 Great podcasts:
 - Safety moment
 
-It's been risky writing about management. I usually have a reason for writing what I do, and it's usually relavant to recent events. 
+It's been risky writing about management. I usually have a reason for writing what I do, and it's usually relevant to recent events. 
