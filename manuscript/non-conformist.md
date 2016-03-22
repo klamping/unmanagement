@@ -1,5 +1,7 @@
 # The Non-Conformist Leader
 
+*Disclaimer: This chapter is currently unfinished*
+
 I have a theory about management. Really, it's more like a law that I'd like to propose:
 
 > The natural tendency of a growing hierarchy is to increase bureaucracy.
