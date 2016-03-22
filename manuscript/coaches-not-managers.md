@@ -6,7 +6,7 @@ Amidst the celebration and noise of the Spurs championship celebration, [a scene
 
 This scene is so meaningful to me, because it really shows how beneficial and powerful a relationship between a player and coach can be. Kawhi didn't say "Thanks for playing me" or "Thanks for trusting me", he said "Thanks for pushing me".
 
-NBA players get paid millions of dollars to do what they do. You would think all that money would be motivation enough to push oneself. Would it be unreasonable to expect a player being paid more than many will see in their lifetime to be able to improve on their own? [Even Coach Pop himself said](http://larrybrownsports.com/basketball/gregg-popovich-gipper-speech-remember-the-titans/17747), "These guys are grown men. They don’t need me to say ‘Remember the Hornets, fellas."
+NBA players get paid millions of dollars to do what they do. You would think all that money would be motivation enough to push oneself. Would it be unreasonable to expect a player being paid more than many will see in their lifetime to be able to improve on their own? [Even Coach Pop himself said](http://larrybrownsports.com/basketball/gregg-popovich-gipper-speech-remember-the-titans/17747), "These guys are grown men. They don't need me to say 'Remember the Hornets, fellas."
 
 The truth is, self-help can only go so far. Our minds have an image of our behavior, our strengths and our weakness, and they don't always match up with reality. In [the words of Richard Feynman](http://neurotheory.columbia.edu/~ken/cargo_cult.html), "The first principle is that you must not fool yourself — and you are the easiest person to fool."
 
@@ -26,6 +26,6 @@ Are you managing the good, or are you coaching the best?
 
 ## Further Reading
 
-A few weeks after writing this, I ran across an article by  Havest Business Review titled [You Can’t Be a Great Manager If You’re Not a Good Coach](http://blogs.hbr.org/2014/07/you-cant-be-a-great-manager-if-youre-not-a-good-coach/). Seems to hit the nail right on the head.
+A few weeks after writing this, I ran across an article by  Harvard Business Review titled [You Can't Be a Great Manager If You're Not a Good Coach](http://blogs.hbr.org/2014/07/you-cant-be-a-great-manager-if-youre-not-a-good-coach/). Seems to hit the nail right on the head.
 
 > [T]he single most important managerial competency that separates highly effective managers from average ones is coaching.

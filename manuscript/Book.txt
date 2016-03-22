@@ -1,14 +1,13 @@
 preface.md
 non-conformist.md
-familiar-review.md
 coaches-not-managers.md
 proper-recognition.md
 giving-meaningful-feedback.md
-future-fixes.md
+familiar-review.md
 --top-down-pushed-down.md
-zero-productivity.md
-downplay-pain.md
 filo.md
+downplay-pain.md
+future-fixes.md
 hard-work-smart-work.md
 inquisitive-questions.md
 manager-matrix.md

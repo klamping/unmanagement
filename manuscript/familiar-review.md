@@ -104,5 +104,5 @@ As a manager/leader, which path do you take?
 
 **Related reading:**
 
-- [A Googler’s Critique of Google Performance Reviews](http://blog.idonethis.com/google-performance-reviews/)
+- [A Googler's Critique of Google Performance Reviews](http://blog.idonethis.com/google-performance-reviews/)
 - [Area Man Fixes Employee Reviews](http://www.inc.com/christine-lagorio/onion-employee-feedback-15five.html)
