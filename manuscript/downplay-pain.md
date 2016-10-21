@@ -1,4 +1,4 @@
-## Downplaying Pain (0% Productivity Tip #2)
+# Downplaying Pain (0% Productivity Tip #2)
 
 **Downplay the pain that others feel because it doesn't look so bad from where you're standing.**
 
@@ -14,4 +14,4 @@ Why is this a productivity thing? Well, when you spend your days arguing why som
 
 The real challenge is to take this a step further. A lot of times people will see changes that could be made to improve their productivity but won't say anything because they know others aren't affected by it. Chances are they won't say anything because they know they're unlikely to convince someone who doesn't feel their pain. Many hours will be wasted having a person struggle with something simply because their pain wasn't shared.
 
-It's your responsibility to step outside of your comfort zone and get to know the pain that others feel. Pain (and the want to avoid it) is a great motivator, so step out of your own comfortable shoes and into the painful ones others wear. You may just figure out why they're complaining so goddamn much.
+It's your responsibility to step outside of your comfort zone and get to know the pain that others feel. Pain (and the want to avoid it) is a great motivator, so step out of your own comfortable shoes and into the painful ones others wear. You may just figure out why they're complaining so goddamn much
