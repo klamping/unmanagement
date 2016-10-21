@@ -1,4 +1,4 @@
-# Downplaying Pain (0% Productivity Tip #2)
+# Downplaying Pain
 
 **Downplay the pain that others feel because it doesn't look so bad from where you're standing.**
 

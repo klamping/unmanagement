@@ -1,4 +1,4 @@
-# It Will be Better In the Future (0% Productivity Tip #4)
+# It Will be Better In the Future
 
 I love the future. I love thinking about how things will be 100% better in it. I'll have more time, I'll have more knowledge and I'll do those bigs things that I just don't have time for right now in the present.
 

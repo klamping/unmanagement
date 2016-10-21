@@ -1,6 +1,8 @@
-# Hard Work vs. Smart Work (0% Productivity Tip #3)
+# Hard Work vs. Smart Work
 
 **Reward hard work, because its visible, not smart work, which appears as laziness**
+
+*Note that this is a fictional story entirely made up.*
 
 It's 8pm on a Thursday night. Patrick, one of my software engineers, has just put in a order for pepperoni pizza. The delivery person shouldn't have any trouble with the office receptionist this time; it's the third night in a row he's made the order.
 

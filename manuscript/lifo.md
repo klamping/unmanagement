@@ -1,4 +1,4 @@
-# Last in, First Out (0% Productivity Tip #1)
+# Last in, First Out
 
 **Treat work in a Last in, First out queue**
 
