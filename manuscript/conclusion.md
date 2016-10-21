@@ -1,6 +1,6 @@
 # Conclusion
 
-As of me writing this, I've never made it to the position of manager. I've futility tried, but ran up against fear from others and fear from myself.
+As of me writing this, I've never made it to the position of manager. I've tried in futility, runing up against fear from others and fear from myself.
 
 The fear from others was a simple concern that I have "no experience" as a manager. This is true, although I don't know how I'm supposed to gain that experience without actually being one.
 
