@@ -1,6 +1,6 @@
-# Downplaying Pain
+## Downplaying Pain (0% Productivity Tip #2)
 
-## Downplay the pain that others feel because it doesn't look so bad from where you're standing.
+**Downplay the pain that others feel because it doesn't look so bad from where you're standing.**
 
 This is a hard one to describe. It's not necessarily about actively minimizing and downplaying the pain that others have to deal with, rather it's about learning to recognize that someone else may be dealing with a different set of problems that you face.
 

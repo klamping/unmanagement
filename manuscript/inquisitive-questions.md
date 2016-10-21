@@ -1,4 +1,4 @@
-# How Inquisitive Questions Spur Kinship at Work
+# Use Inquisitive Questions to Spur Kinship at Work
 
 If you had a warning label, what would it say?
 
@@ -6,7 +6,7 @@ If you had a warning label, what would it say?
 
 That's probably what mine would say. How about yours?
 
-This is the type of question asked every week during "Team Hugs" at [Four Kitchens](fourkitchens.com). Team Hugs is the name of the weekly meeting where they invest time as a company getting to know the little quirks and oddities of each individual working there. Here's how they do it:
+This is the type of question asked every week during "Team Hugs" at [Four Kitchens](fourkitchens.com). Team Hugs is the weekly meeting where they invest time as a company getting to know the little quirks and oddities of each individual working there. Here's how they do it:
 
 1. Gather everyone on a video call
 2. Start with an open-floor "kudos" session, where teammates send shout-outs to their peers recognizing them for a special achievement or effort.

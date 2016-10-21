@@ -1,10 +1,10 @@
-# It Will be Better In the Future
+## It Will be Better In the Future (0% Productivity Tip #4)
 
 I love the future. I love thinking about how things will be 100% better in it. I'll have more time, I'll have more knowledge and I'll do those bigs things that I just don't have time for right now in the present.
 
 Which leads me to my next way to achieve 0% productivity:
 
-**Talk about improving things “in the future”, without listing out specific POCs, timelines, and so on.**
+**Talk about improving things "in the future", without listing out specific people, timelines, and actions to take.**
 
 With how busy our lives are being unproductive, it can be difficult to fit in all the unproductive work we want to. That's why we often look to the future as our way out of the current mess.
 

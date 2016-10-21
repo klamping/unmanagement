@@ -1,10 +1,6 @@
-# Last in, First Out
+## Last in, First Out (0% Productivity Tip #1)
 
-These next four chapters revolve around a four-part series I put together called "0% Productivity". I intended to write many more parts to it, as I have many other ways I know to drag employee productivity down the drain. 
-
-These stories are a bit tongue-in-cheek.
-
-**Tip #1: Treat work in a Last in, First out queue**
+**Treat work in a Last in, First out queue**
 
 So what does it mean to treat work like a Last in, First out stack? Programmers may be familiar with this phrase, but for those of you who aren't, let me give a simple example to show what I mean.
 

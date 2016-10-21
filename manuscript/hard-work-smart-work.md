@@ -1,8 +1,10 @@
-# Hard Work, Smart Work
+# Hard Work vs. Smart Work (0% Productivity Tip #3)
 
-It's 8pm on a Thursday night. Patrick, one of my software engineers, has just put in a order for pepperoni pizza. The delivery person shouldn't have any trouble with the office receiptionist this time; it's the third night in a row he's made the order.
+**Reward hard work, because its visible, not smart work, which appears as laziness**
 
-Patrick is stuck trying to catch up on work after a day full of interuptions: Between questions about a project he's on and requests for help with an app he wrote six months ago, he hasn't been able to focus all day. He knows we're counting on him to get the work done, so he's committed to do whatever it takes, even if it means gaining weight.
+It's 8pm on a Thursday night. Patrick, one of my software engineers, has just put in a order for pepperoni pizza. The delivery person shouldn't have any trouble with the office receptionist this time; it's the third night in a row he's made the order.
+
+Patrick is stuck trying to catch up on work after a day full of interruptions: Between questions about a project he's on and requests for help with an app he wrote six months ago, he hasn't been able to focus all day. He knows we're counting on him to get the work done, so he's committed to do whatever it takes, even if it means gaining weight.
 
 Julie, on the other hand, is at home reading bedtime stories to her 4 year old. She just finished *Stick Kid* and is now opening up *I'm Bored*. Julie left work at 5pm today and I couldn't help but notice. While Patrick is working extra hours to make sure the project is completed on time, Julie rarely stays late.
 
@@ -14,7 +16,7 @@ It's not just choosing who to promote that has me worried. In my 1:1's with Patr
 
 Maybe if I give Patrick the promotion, Julie will be a little more motivated to pitch in. She'd see that a little extra effort pays off. She doesn't have to work 60 hours a week, we all need a work-life balance, but she should at least be willing to stay late a couple times a week. It's just not fair for Patrick to be the only one working late.
 
-Still, I can't help but wonder how Julie gets it all done. Why is Patrick always being interrupted, while Julie is able to work for hours without a single meeting interferring? Patrick is always willing to help other teams, yet Julie's video tutorials seem to have garnered hundreds of views from across the company, and she's only spent a few hours on them.
+Still, I can't help but wonder how Julie gets it all done. Why is Patrick always being interrupted, while Julie is able to work for hours without a single meeting interfering? Patrick is always willing to help other teams, yet Julie's video tutorials seem to have garnered hundreds of views from across the company, and she's only spent a few hours on them.
 
 Julie always seems to be thinking of the most efficient way to spread knowledge, while Patrick is just trying to give people a specific answer to their specific problem. He doesn't document his answers, so he's often answering the same question from different people.
 
