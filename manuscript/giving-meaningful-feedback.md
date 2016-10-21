@@ -1,3 +1,5 @@
+-# Part III - Slightly okay advice
+
 # Giving Meaningful Feedback
 
 In ["Coaches, not Managers"](http://blog.kevinlamping.com/coaches-not-managers/), I wrote about the importance of giving feedback. I didn't go into detail on just how to do that, because I felt it was worth its own post. 

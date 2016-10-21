@@ -26,7 +26,7 @@ If someone hangs on to a specific word I said, or a specific point I made, and u
 
 Make criticism sacred. Anticipate personal feelings and the misinterpretations due to them. Clarify points.
 
-Never criticize someone's thoughts as uncalled-for or improper. That only undermines the trust the team is working so hard to build. Yes, the timing could be wrong, or the critcism too direct, but if that's the case, work on improving the environment. How can the team allow for more opportunities to express themselves at the right time?
+Never criticize someone's thoughts as uncalled-for or improper. That only undermines the trust the team is working so hard to build. Yes, the timing could be wrong, or the criticism too direct, but if that's the case, work on improving the environment. How can the team allow for more opportunities to express themselves at the right time?
 
 ---
 
@@ -44,4 +44,4 @@ Work to identify concerns up front, otherwise you'll find out about them when yo
 
 > "What makes Pixar special is that we acknowledge we will always have problems, many of them hidden from our view; that we work hard to uncover these problems, even if doing so means making ourselves uncomfortable;" - Ed Catmull, [*Creativity, Inc*](http://www.amazon.com/gp/product/0812993012/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0812993012&linkCode=as2&tag=cibomediserv-20&linkId=IQO4D44ZUGFOPX2A)
 
-[I believe giving meaningful feedback](http://blog.kevinlamping.com/giving-meaningful-feedback/) is crucial to a team's success over the long term. Build it into your everyday. Work on it when things are going well. Take a lack of criticical feedback as a bad sign. No matter the situation, people have opinions. Work to hear what they are.
+I believe giving meaningful feedback is crucial to a team's success over the long term. Build it into your everyday. Work on it when things are going well. Take a lack of critical feedback as a bad sign. No matter the situation, people have opinions. Work to hear what they are.
