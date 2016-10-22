@@ -2,6 +2,8 @@
 
 # The Non-Conformist Leader
 
+*This chapter still in progress. Some sections are entirely missing*
+
 I have a theory about management. Really, it's more like a law that I'd like to propose:
 
 > The natural tendency of a developing organization is to increase bureaucracy.
@@ -41,10 +43,11 @@ A great leader doesn't have a secret handbook they follow to make the right deci
 
 [The folks at Buffer have raised the bar in terms of transparency](https://buffer.com/transparency). Their culture motto of "Default to Transparency" changes the way 
 
+%
 Work in the open
 
 Managers are afraid to reveal too much too early...
-
+%
 
 
 ## They Accept Failure
@@ -68,7 +71,9 @@ By celebrating failure, they push employees to take risks that would otherwise b
 
 ## They Don't Fret the Numbers
 
+%
 https://www.theguardian.com/business/2008/feb/10/businesscomment1
+%
 
 
 ## They're Human
